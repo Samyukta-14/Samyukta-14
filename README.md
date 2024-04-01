@@ -1,4 +1,4 @@
-# Hello Fellas! ✌🏻
+# Hello! ✌🏻
 I'm Samyukta, a CSE Undergrad.<br>
 Currently: CSE Student at SRM University,Chennai.
 - 👀 I’m interested in CyberSecurity.
