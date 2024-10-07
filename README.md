@@ -1,6 +1,6 @@
 # Hello! ✌🏻
-I'm Samyukta, a CSE Undergrad.<br>
-Currently: CSE Student at SRM University,Chennai.
+I'm Samyukta, a Cybersecurity Graduate student.<br>
+Currently: Master's in Cybersecurity at Northeastern University.
 - 👀 I’m interested in CyberSecurity.
 - 🌱 I’m currently learning Ethical Hacking.
 
