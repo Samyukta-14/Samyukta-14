@@ -34,14 +34,5 @@ I'm a **Graduate Student** passionate about **Digital Forensics**.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
----
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/samyukta-kurikala)
-[![Email](https://img.shields.io/badge/-Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:samyuktakurikalawork@outlook.com)
-
----
-
 
 
