@@ -46,5 +46,5 @@ I'm a **Graduate Student** passionate about **Digital Forensics**.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 
 
-
+![Profile views](https://komarev.com/ghpvc/?username=Samyukta-14l&color=blueviolet)
 
