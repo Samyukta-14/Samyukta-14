@@ -44,7 +44,6 @@ I'm a **Graduate Student** passionate about **Digital Forensics**.
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-
-
+---
 ![Profile views](https://komarev.com/ghpvc/?username=Samyukta-14l&color=blueviolet)
 
