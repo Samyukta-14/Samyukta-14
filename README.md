@@ -9,7 +9,7 @@ I'm a **Graduate Student** passionate about **Digital Forensics**.
 - 💡 New to **open source** and excited to contribute to meaningful projects.
 
 ---
-## Currently working on
+## ⚒️ Currently working on
 - IR Playbooks
 - Forensic Analysis Cheatsheet
 ---
